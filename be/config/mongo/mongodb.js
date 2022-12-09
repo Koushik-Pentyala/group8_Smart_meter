@@ -1,6 +1,7 @@
 const config = {};  
 const conn = `mongodb+srv://admin:admin123@cluster0.ggcbxxz.mongodb.net/?retryWrites=true&w=majority`;
 
+
 const mongoose = require("mongoose");
 
 
